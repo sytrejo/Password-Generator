@@ -1,9 +1,9 @@
 # Password-Generator
 ## Table of Content
-[Description](#Description)
-[Screenschots](#Screenshots)
-[Links](#Links)
-[Contact](#Contact Me)
+1. [Description](#Description)
+2. [Screenschots](#Screenshots)
+3. [Links](#Links)
+4. [Questions](#Questions)
 
 ## Description
 
@@ -23,7 +23,7 @@ Deployed App:[https://sytrejo.github.io/Password-Generator/](https://sytrejo.git
 
 Github Repo:[https://github.com/sytrejo/Password-Generator](https://github.com/sytrejo/Password-Generator)
 
-## Contact Me
+## Questions
 
 github: sytrejo
 
